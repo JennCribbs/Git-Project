@@ -208,8 +208,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 503029646}
+<<<<<<< HEAD:Assets/Scenes/Car.unity
   m_LocalRotation: {x: -0.021015152, y: -0.0012403935, z: 0.05890816, w: 0.9980415}
   m_LocalPosition: {x: -1.05, y: -2.19, z: 0.62}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.62027085, y: -1.7, z: 0.7924613}
+>>>>>>> parent of 2320193... Created wheels:Assets/Scenes/SampleScene.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -487,8 +492,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 998672540}
+<<<<<<< HEAD:Assets/Scenes/Car.unity
   m_LocalRotation: {x: 0.41100386, y: -0.74761736, z: 0.4281637, w: 0.2980269}
   m_LocalPosition: {x: -7.36, y: 5.18, z: -2.47}
+=======
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+>>>>>>> parent of 2320193... Created wheels:Assets/Scenes/SampleScene.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -577,6 +587,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Scenes/Car.unity
 --- !u!1 &1177063245
 GameObject:
   m_ObjectHideFlags: 0
@@ -953,3 +964,5 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 60.175003, y: 0, z: -90.450005}
+=======
+>>>>>>> parent of 2320193... Created wheels:Assets/Scenes/SampleScene.unity
